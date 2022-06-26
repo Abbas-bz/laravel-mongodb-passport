@@ -1,5 +1,5 @@
 {
-    "name": "lifeweb-ir/laravel-mongodb-passport",
+    "name": "abbas-bz/laravel-mongodb-passport",
     "description": "A package to allow laravel/passport use with jenssegers/laravel-mongodb",
     "homepage": "https://github.com/designmynight/laravel-mongodb-passport",
     "license": "MIT",
